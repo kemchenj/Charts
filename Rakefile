@@ -11,7 +11,7 @@ def macos_project_name
 end
 
 def configuration
-  'Debug'
+  'Release'
 end
 
 def test_platforms
